@@ -1,0 +1,6 @@
+export const burgerMenuBtn = '[id="react-burger-menu-btn"]'
+export const loginErrorLabel = '[data-test="error"]'
+export const loginErrorBtn = '[data-test="error-button"]'
+export const username = '#user-name'
+export const password = '#password'
+export const loginBtn = '#login-button'

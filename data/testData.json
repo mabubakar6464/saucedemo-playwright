@@ -1,0 +1,26 @@
+{
+    "url": "https://www.saucedemo.com/",
+    "username": "standard_user",
+    "incorrect_username" : "incorrect_username",
+    "user_perfermance_glitch": "performance_glitch_user",
+    "user_locked_out": "locked_out_user",
+    "problem_user": "problem_user",
+    "password": "secret_sauce",
+    "incorrect_password": "12345656356",
+    "timeout": 60000,
+    "about_page_url": "https://saucelabs.com/",
+    "dropdown_za": "za",
+    "dropdown_az": "az",
+    "dropdown_lohi": "lohi",
+    "dropdown_hilo": "hilo",
+
+    "bike_light_price": "9.99",
+    "fleece_price": "49.99",
+    "backpack_price": "29.99",
+    "order_thanks": "Thank you for your order!",
+    "locked_out_user_error": "Epic sadface: Sorry, this user has been locked out.",
+    "username_required": "Epic sadface: Username is required",
+    "password_required": "Epic sadface: Password is required",
+    "user_and_pass_mismatch": "Epic sadface: Username and password do not match any user in this service"
+
+}

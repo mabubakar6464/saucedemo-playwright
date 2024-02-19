@@ -1,0 +1,25 @@
+{
+  "name": "saucedemo-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "reports": "npx playwright show-report"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mabubakar6464/saucedemo-playwright.git"
+  },
+  "keywords": [],
+  "author": "Muhammad Abubakar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mabubakar6464/saucedemo-playwright/issues"
+  },
+  "homepage": "https://github.com/mabubakar6464/saucedemo-playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.46.1",
+    "@types/node": "^22.3.0"
+  }
+}
